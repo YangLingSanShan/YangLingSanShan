@@ -13,11 +13,11 @@
 
 ## 🔬Research & Internship Experience
 
-- **State Key Laboratory of VR and Systems, Beihang University** (Nov 2023 - Jun 2024)
+- **State Key Laboratory of VR and Systems, School of Computer Science and Engineering, Beihang University** (Nov 2023 - Jun 2024)
   
   Research Focus: AI4Science, Bioinfomatics
   
-- **School of Artificial Intelligence, Shanghai Jiao Tong University** (July 2024 - Present)
+- **School of Artificial Intelligence, EPIC, Shanghai Jiao Tong University** (July 2024 - Present)
 
   Research Focus: Efficient AI, Data condensation (pruning & distillation)
 
