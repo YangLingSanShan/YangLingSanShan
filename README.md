@@ -23,7 +23,7 @@
 
 ## 🔬Intern Experience
 
-- **SDIC CONTECH（Chinese: 国投融合, Artificial Application Center** (March 2025 - Now)
+- **SDIC CONTECH(Chinese: 国投融合), Artificial Application Center** (March 2025 - Now)
 
 ## 🔧Tech Stack
 
