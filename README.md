@@ -11,15 +11,19 @@
 
 - Kaggle RSNA 2024  - Bronze
 
-## 🔬Research & Internship Experience
+## 🔬Research Experience
 
 - **State Key Laboratory of VR and Systems, School of Computer Science and Engineering, Beihang University** (Nov 2023 - Jun 2024)
   
   Research Focus: AI4Science, Bioinfomatics
   
-- **School of Artificial Intelligence, EPIC, Shanghai Jiao Tong University** (July 2024 - Present)
+- **School of Artificial Intelligence, Efficient and Precision Intelligent Computing(EPIC), Shanghai Jiao Tong University** (July 2024 - March 2025)
 
   Research Focus: Efficient AI, Data condensation (pruning & distillation)
+
+## 🔬Intern Experience
+
+- ****
 
 ## 🔧Tech Stack
 
