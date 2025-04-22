@@ -5,7 +5,7 @@
 - Major: Computer Science and Technology
 - 2022.09 - 2026.07
 
-🌐 **Personal Blog**: [YangLingSanShan](http://yanglingsanshan.online/)
+🌐 **Personal Blog**: [YangLingSanShan](https://yanglingsanshan.github.io/)
 
 ## 🏅 Competitive Achievements
 
