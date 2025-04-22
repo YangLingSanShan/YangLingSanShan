@@ -24,13 +24,16 @@
 ## 🔬Intern Experience
 
 - **SDIC CONTECH(Chinese: 国投融合), Artificial Application Center** (March 2025 - June 205)
-- I will join **4Paradigm** in June as an algorithm intern, focusing on recommendation systems.
+- I will join **4Paradigm** in June as an algorithm intern, focusing on Recommendation System.
 
 ## 🔧Tech Stack
 
 - **Languages**: Python (main), C/C++, Java, Verilog & MIPS
 - **Frameworks & Tools**: Django, Pytorch, HTML+CSS+Vue3, Postman, ROS2 
 
+##　🌱 Interests
+- Research Interests(Now): Recommendation System
+- Hobby: Hiking!!!!
 ## 📫 Contact
 
 - **QQ**: 924613665
