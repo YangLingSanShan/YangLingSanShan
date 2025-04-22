@@ -23,12 +23,13 @@
 
 ## 🔬Intern Experience
 
-- **SDIC CONTECH(Chinese: 国投融合), Artificial Application Center** (March 2025 - Now)
+- **SDIC CONTECH(Chinese: 国投融合), Artificial Application Center** (March 2025 - June 205)
+- I will join **4Paradigm** in June as an algorithm intern, focusing on recommendation systems.
 
 ## 🔧Tech Stack
 
-- **Languages**: C, Java, Python
-- **Frameworks & Tools**: Django, Verilog, Pytorch, HTML+CSS+Vue3
+- **Languages**: Python (main), C/C++, Java, Verilog & MIPS
+- **Frameworks & Tools**: Django, Pytorch, HTML+CSS+Vue3, Postman, ROS2 
 
 ## 📫 Contact
 
