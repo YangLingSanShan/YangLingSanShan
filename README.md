@@ -23,7 +23,7 @@
 
 ## 🔬Intern Experience
 
-- **SDIC CONTECH(Chinese: 国投融合), Artificial Application Center** (March 2025 - June 205)
+- **SDIC CONTECH(Chinese: 国投融合), Artificial Application Center** (March 2025 - June 2025)
 - I will join **4Paradigm** in June as an algorithm intern, focusing on Recommendation System.
 
 ## 🔧Tech Stack
