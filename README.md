@@ -19,16 +19,16 @@
   
 - **School of Artificial Intelligence, Efficient and Precision Intelligent Computing(EPIC), Shanghai Jiao Tong University** (July 2024 - March 2025)
 
-  Research Focus: Efficient AI, Data condensation (pruning & distillation)
+  Research Focus: Efficient AI, Data Condensation (Pruning & Distillation)
 
 ## 🔬Intern Experience
 
-- **SDIC CONTECH(Chinese: 国投融合), Artificial Application Center** (March 2025 - June 2025)
-- I will join **4Paradigm** in June as an algorithm intern, focusing on Recommendation System.
+- **SDIC CONTECH(Chinese: 国投融合)**, Artificial Application Center, focusing on CV and machine learning, (March 10th, 2025 - May 31st, 2025)
+- **4Paradigm**, Department of Science and Technology, focusing on Recommend System(fine-grained ranking), (June 2nd, 2025 -  Now)
 
 ## 🔧Tech Stack
 
-- **Languages**: Python (main), C/C++, Java, Verilog & MIPS
+- **Languages**: **Python (main)**, C/C++, Java, Verilog & MIPS
 - **Frameworks & Tools**: Django, Pytorch, HTML+CSS+Vue3, Postman, ROS2 
 
 ## 🌱Interests
