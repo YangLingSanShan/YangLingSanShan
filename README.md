@@ -23,8 +23,8 @@
 
 ## 🔬Intern Experience
 
-- **SDIC CONTECH(Chinese: 国投融合)**, Artificial Application Center, focusing on CV and machine learning, (March 10th, 2025 - May 31st, 2025)
-- **4Paradigm**, Department of Science and Technology, focusing on Recommend System(fine-grained ranking), (June 2nd, 2025 -  Now)
+- **SDIC CONTECH(Chinese: 国投融合)**, Artificial Application Center, focusing on CV and machine learning, (March 2025 - June 2025)
+- **4Paradigm**, Department of Science and Technology, focusing on Recommend System(fine-grained ranking), (June 2025 -  September 2025)
 
 ## 🔧Tech Stack
 
