@@ -30,7 +30,7 @@
 ## 🔧Tech Stack
 
 - **Languages**: **Python (main)**, C/C++, Java, Verilog & MIPS
-- **Frameworks & Tools**: Django, Pytorch, HTML+CSS+Vue3, Postman, ROS2 
+- **Frameworks & Tools**: Pytorch, Tensorflow, Hadoop + Spark, ROS2,  Django
 
 ## 🌱Interests
 - Research Interests(Now): Recommendation System
