@@ -13,19 +13,19 @@
 
 ## 🔬Research Experience
 
-- **State Key Laboratory of VR and Systems, School of Computer Science and Engineering, Beihang University** (Nov 2023 - Jun 2024)
-  
-  Research Focus: AI4Science, Bioinfomatics
-  
 - **School of Artificial Intelligence, Efficient and Precision Intelligent Computing(EPIC), Shanghai Jiao Tong University** (July 2024 - March 2025)
 
   Research Focus: Efficient AI, Data Condensation (Pruning & Distillation)
 
+- **State Key Laboratory of VR and Systems, School of Computer Science and Engineering, Beihang University** (Nov 2023 - Jun 2024)
+  
+  Research Focus: AI4Science, Bioinfomatics
+
 ## 🔬Intern Experience
 
-- **SDIC CONTECH(Chinese: 国投融合)**, Artificial Application Center, focusing on CV and machine learning, (March 2025 - June 2025)
-- **4Paradigm**, Department of Science and Technology, focusing on Recommend System(fine-grained ranking), (June 2025 -  September 2025)
 - **Meituan**, Meituan Search Guidance Team, focusing on Recommend System(fine-grained ranking and reranking), (October 2025 - Now)
+- **4Paradigm**, Department of Science and Technology, focusing on Recommend System(fine-grained ranking), (June 2025 -  September 2025)
+- **SDIC CONTECH(Chinese: 国投融合)**, Artificial Application Center, focusing on CV and machine learning, (March 2025 - June 2025)
 
 ## 🔧Tech Stack
 
