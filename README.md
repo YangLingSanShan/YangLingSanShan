@@ -42,5 +42,5 @@
 - **Email**: [lipeiru47@gmail.com](mailto:lipeiru47@gmail.com)
 
 <div style="text-align: center;">
-    <img src="./wallpaper/6.jpg" style="zoom:50%">
+    <img src="./wallpaper/9cb86a489e31fb594feb5f0bd62720ba.jpg" style="zoom:50%">
 </div>
