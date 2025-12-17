@@ -23,8 +23,8 @@
 
 ## 🔬Intern Experience
 
-- **Meituan**, Meituan Search Guidance Team, focusing on Recommend System(fine-grained ranking and reranking), (October 2025 - Now)
-- **4Paradigm**, Department of Science and Technology, focusing on Recommend System(fine-grained ranking), (June 2025 -  September 2025)
+- **Meituan**, Search Guidance Team, focusing on Search Ranking System(Fine-grained Ranking & Reranking), (October 2025 - Now)
+- **4Paradigm**, Department of Science and Technology, focusing on Recommend System(Fine-grained ranking), (June 2025 -  September 2025)
 - **SDIC CONTECH**, Artificial Application Center, focusing on CV and machine learning, (March 2025 - June 2025)
 
 ## 🔧Tech Stack
